@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesarrolloGuia4Moviles</string>
+    <string name="nombre">Walter Antonio Aguilar Quintanilla</string>
+    <string name="codigo">AQ16-I04-001</string>
+    <string name="tituloDatos">Mis datos</string>
+    <string name="ValidarNombre">Escriba el nombre</string>
+    <string name="ValidarOrganizacion">Escriba la organizacion</string>
+    <string name="ValidarTelefono">Escriba telefono</string>
+    <string name="Tamanio">Tamaño 8 caracteres</string>
+</resources>
